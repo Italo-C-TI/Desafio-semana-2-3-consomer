@@ -1,0 +1,6 @@
+br\com\sqs_consomer\services\DeleteMessages.class
+br\com\sqs_consomer\services\SQSService$1$1.class
+br\com\sqs_consomer\services\SQSService$1.class
+br\com\sqs_consomer\services\ReceiveMessages.class
+br\com\sqs_consomer\services\SQSService.class
+br\com\sqs_consomer\App.class
