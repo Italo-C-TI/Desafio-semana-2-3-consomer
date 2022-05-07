@@ -1,4 +1,5 @@
 br\com\sqs_consomer\services\DeleteMessages.class
+br\com\sqs_consomer\services\KafkaService.class
 br\com\sqs_consomer\services\SQSService$1$1.class
 br\com\sqs_consomer\services\SQSService$1.class
 br\com\sqs_consomer\services\ReceiveMessages.class
